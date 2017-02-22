@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+img {
+  margin-top: 170px;
+  width: 320px;
+}
+
+div {
+  margin-top: 25px;
+}
+
+button {
+  background-color: #F4F4F4;
+  color: gray;
+  font-size: 0.8em;
+  padding: 10px;
+  font-weight: bold;
+  border: 1px solid #F6FFFA;
+}
+
+input {
+  display: inline-block;
+  font-size: 20px;
+  background-color: white;
+  height: 20px;
+  width: 500px;
+  padding: 10px;
+  border: 1px solid #EBEBEB;
+  margin: 1px;
+}
